@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon JavaScript bug related to the strict equality operator (===) and its handling of NaN and 0/-0 values.  The `bug.js` file shows the unexpected behavior, while `bugSolution.js` offers a potential solution to mitigate these issues. This is a subtle bug that can easily be overlooked and cause unexpected outcomes in applications.
